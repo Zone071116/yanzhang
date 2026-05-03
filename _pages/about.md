@@ -258,8 +258,6 @@ Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoske
 
 ## News
 
-<!-- 图片优化：移除原400%宽度错误设置，依赖CSS控制尺寸 -->
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -268,7 +266,9 @@ Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoske
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-As shown in the picture, the research group to which Homo sapiens belongs applied to serve as the lead unit for the National Key R&D Program "Wearable Machine for Cardiopulmonary Assistance Integrating Homo sapiens," with Homo sapiens applying to participate as a core member of the project team. This involvement includes five research projects, such as the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei. The related achievements have undergone effectiveness validation in over 200 applications and have been included as an additional technology in the "China Rehabilitation Medicine Report 2022" (the only selected technology in the respiratory machine Homo sapiens category), edited by Academician Wang Chen.
+As shown in the picture, the research group led by my supervisor (Professor Dangxiao Wang) serves as the lead unit for the National Key R&D Program *"Wearable Machine for Cardiopulmonary Assistance Integrating Homo sapiens"*, and I participated as a core member of the project team.  
+
+This work is supported by five major research projects, including the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei. The related technologies have been validated in over 200 clinical applications and were selected as an additional technology in the *China Rehabilitation Medicine Report 2022* (the only respiratory assistive technology included in the Homo sapiens category), edited by Academician Wang Chen.
   </div>
 </div>
 
