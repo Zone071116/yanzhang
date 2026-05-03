@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kailun Mai's Homepage"
+title: "Yan Zhang's Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -202,17 +202,69 @@ h2 {
 <span class='anchor' id='about-me'></span>
 
 ## About Me
+
 <div class="profile-intro">
-I strictly adhere to school and class regulations, respect teachers, and unite with classmates; actively participate in volunteer services (such as tree-planting activities on Arbor Day and serving as a referee for the Freshmen Cup table tennis competition), assist in cleaning the Shahe Town Service Center, serve as a dormitory leader to help maintain the cleanliness of the dormitory floors, and fully uphold collective honor. I study diligently, maintaining the habit of "previewing before class, focusing during class, and reviewing after class," with academic performance consistently ranking at the top of the class. I actively participate in competitions and scientific research activities, including the Beihang AERO Racing Team competition, and have been awarded honors such as Outstanding Science and Technology Camp Participant by the school. In my spare time, I expand my knowledge through popular science books like "Global Science" to enhance my academic literacy. I maintain a daily exercise routine, actively participate in table tennis (Fengyun Cup) and volleyball competitions; join the school's volleyball and billiards clubs, and take part in their regular activities. (ranked <strong>3rd out of 80 participants</strong>).
+I am a "Distinguished Hundred Talents" postdoctoral fellow at Beihang University. My research focuses on key issues in respiratory exoskeleton robots, including bionic mechanisms, variable-stiffness and variable-configuration design, and human-in-the-loop control.
+I have published 4 SCI papers as the first author or corresponding author, including high-level papers in IEEE Transactions on Biomedical Engineering (IEEE TBME, a Q1 journal in the biomedical engineering field) and IEEE Transactions on Neural Systems and Rehabilitation Engineering (IEEE TNSRE, a Q1 journal in the rehabilitation field). My doctoral dissertation was awarded the 2025 Doctoral Dissertation Incentive Program by the Technical Committee on Intelligent Robots of the China Computer Federation. Relevant achievements were invited for a presentation at the Youth Forum of the 2025 China Haptic Technology and Application Conference(ranked <strong>3rd out of 80 participants</strong>).
 </div>
 
+## Doctoral Supervisor: Dangxiao Wang
+
+<div class="profile-intro">
+Professor Wang Dangxiao is a doctoral supervisor at Beihang University and Deputy Director of the State Key Laboratory of Virtual Reality Technology and Systems. He is also the Chief Scientist of a National Key Research and Development Program project.
+He has previously served as Chair of the IEEE Technical Committee on Haptics, Chair of AsiaHaptics 2022, and Associate Editor of IEEE Transactions on Haptics (IEEE TOH). His research areas include medical rehabilitation robots, haptic human-computer interaction, and brain-computer interface technology.
+Professor Wang has published more than 50 papers in IEEE Transactions journals as the first or corresponding author, including 25 papers in IEEE Transactions on Haptics (a top journal in the haptics field) as the first/corresponding author (ranked <strong>5th globally</strong> in terms of author order in the Web of Science database).
+</div
+
+## Co-Supervisor: Yubo Fan
+
+<div class="profile-intro">
+Professor Fan Yubo is a recipient of the National Distinguished Young Scientist Fund. He currently serves as Dean of the Interdisciplinary Innovation Institute of Medical and Engineering, Dean of the School of Medical Science and Engineering, and Dean of the School of Biological and Medical Engineering at Beihang University.
+He also holds the positions of Director of the National Medical Research and Development Industry-Education Integration Platform (Medical-Engineering Integration), Director of the Beijing Advanced Innovation Center for Biomedical Engineering, and Director of the Key Laboratory of Biomechanics and Mechanobiology of the Ministry of Education.
+Professor Fan is a Changjiang Scholar Distinguished Professor, leader of the Innovation Group of the National Natural Science Foundation of China, and leader of the Innovation Team in Key Fields of the Ministry of Science and Technology. He is a recipient of the Special Government Allowance of the State Council. Additionally, he is a Fellow of the American Institute for Medical and Biological Engineering (AIMBE), International Academy for Medical and Biological Engineering (IAMBE), International Union for Physical and Engineering Sciences in Medicine (IUPESM), and Federation of the International Societies for Biomaterials Science and Engineering (FBSE).
+</div
+
+## Collaborators
+
+<div class="profile-intro">
+Below are the core students and faculty collaborators from our team. You are welcome to reach out to them for potential collaborations. Interns are not listed here—however, we warmly welcome motivated individuals to join us!
+</div
+
+## Faculty
+
+<div class="profile-intro">
+<li>
+Bi Zhang, Shenyang Institute of Automation — Rehabilitation Exoskeleton Robot
+</li>
+<li>
+Xiao Zhang, Tianjin University — Origami Engineering
+</li>
+<li>
+Yanggang Feng, Beihang University — Wearable Robot
+</li>
+<li>
+Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoskeleton Robot
+</li>
+</div
+
+## Doctor
+
+<div class="profile-intro">
+<li>Qinggang Ge, Zongyu Wang, Mai Shi, Lei Xue, Peking University Third Hospital — Respiratory and Critical Care Medicine</li>
+<li>Shu Li, Peking University People’s Hospital — Respiratory Function in Trauma Patients</li>
+<li>Dan Huang, Xiaotangshan Hospital — Hypoxic Respiration</li>
+<li>Xiaoxuan Liu, Peking University Third Hospital — ALS</li>
+</div
+
 ## News
+
 <!-- 图片优化：移除原400%宽度错误设置，依赖CSS控制尺寸 -->
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">中国康复医学报告2022</div>
-      <img src='images/pic-m.png' alt="中国康复医学报告2022相关图片">
+      <img src='images/pic-1.png' alt="中国康复医学报告2022相关图片">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -220,7 +272,8 @@ As shown in the picture, the research group to which Homo sapiens belongs applie
   </div>
 </div>
 
-## Achievements 
+## Achievements
+
 <ul id="Achievements">
   <li>
     <strong>Development of respiratory exoskeleton prototypes</strong><br>
@@ -240,13 +293,80 @@ As shown in the picture, the research group to which Homo sapiens belongs applie
   </li>
 </ul>
 
+## Principal Investigator
+
+<div class="profile-intro">
+
+I have presided over and participated in a number of national, provincial and horizontal research projects, mainly focusing on wearable respiratory assistive robots, bionic soft exoskeletons and human-in-the-loop control technology. Relevant project information is listed as follows:
+
+<ul style="padding-left: 20px; margin-top: 15px;">
+
+<li><strong>Human-Machine Integrated Cardiopulmonary Assistive Wearable Robot</strong><br>
+
+<em>Source:</em> National Key R&D Program of China, Key Project on "Intelligent Robotics"<br>
+
+<em>Duration:</em> Jan 2025 – Dec 2027<br>
+
+<em>Role:</em> Key Participant
+
+</li>
+
+<li><strong>Bio-Inspired Cough Mechanism-Based Assistive Expectorating Soft Exoskeleton Robot</strong><br>
+
+<em>Source:</em> General Program of the National Natural Science Foundation of China (NSFC)<br>
+
+<em>Duration:</em> Jan 2022 – Dec 2025<br>
+
+<em>Role:</em> Key Participant
+
+</li>
+
+<li><strong>Research on Respiratory Enhancement Training Technology Based on Thoraco-Abdominal Pressure-Assisted Regulation</strong><br>
+
+<em>Source:</em> [Blinded] Project<br>
+
+<em>Duration:</em> Jun 2023 – Jun 2025<br>
+
+<em>Role:</em> Key Participant
+
+</li>
+
+<li><strong>Neural Decoding and Adaptive Control Mechanism of Voluntary Respiratory Engagement in VR Environments</strong><br>
+
+<em>Source:</em> Independent Project of the State Key Laboratory of Virtual Reality Technology and Systems<br>
+
+<em>Duration:</em> Jan 2022 – Dec 2023<br>
+
+<em>Role:</em> Key Participant
+
+</li>
+
+<li><strong>Tactile Feedback Glove</strong><br>
+
+<em>Source:</em> Huawei Collaborative Project<br>
+
+<em>Duration:</em> Jan 2021 – Dec 2021<br>
+
+<em>Role:</em> Participant
+
+</li>
+
+</ul>
+
+</div>
 
 ## Published Essays
+
 <!-- 优化：改为有序列表，高亮SCI/Q1，规整作者与期刊格式 -->
+
 <ol class="articles-list">
   <li><strong>Yan Zhang</strong>, Qinggang Ge, Zongyu Wang, Yuxing Qin, Yixing Wu, Mingjing Wang, Mai Shi, Lei Xue, Weidong Guo, Yuru Zhang, Guangyu Wang, and Dangxiao Wang. Extracorporeal closed-loop respiratory regulation for patients with respiratory difficulty using a soft bionic robot [J]. <em>IEEE Transactions on Biomedical Engineering</em>, 2024. <em>(SCI, Q1)</em> (First Author)</li>
   <li><strong>Yan Zhang</strong>, Danye Li, Fengyao Zhang, Zongyu Wang, Lei Xue, Xiaolu Nan, Nianming Li, Xilai Tan, Weidong Guo, Yuru Zhang, Hongmei Zhao, Qinggang Ge, Dangxiao Wang. Evaluation and modeling of diaphragm displacement using ultrasound imaging for wearable respiratory assistive robot [J]. <em>Frontiers in Bioengineering and Biotechnology</em>. <em>(SCI, Q1)</em> (First Author)</li>
   <li><strong>Yan Zhang</strong>,Ziqi Wang,Qinggang Ge, Zongyu Wang, Xiangjie Zhou, Shaohang Han,Yuru Zhang, Dangxiao Wang. Soft exoskeleton mimics human cough for assisting the expectoration capability of SCI patients [J]. <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, 2022. <em>(SCI, Q1)</em> (Co-First Author)</li>
   <li>Wenzhuo Zhi, Wei Zhao, <strong>Yan Zhang</strong>, Enming Shi, Yangfan Zhou, Bi Zhang. Thoraco-abdominal biomechanical model and dual-layer control method for soft robotic system with application to respiratory assistance [J]. <em>Frontiers in Bioengineering and Biotechnology</em>. <em>(SCI, Q1)</em> (Co-Corresponding Author)</li>
-  <li>Yue Wang, <strong>Yan Zhang</strong>, Qinggang Ge, Yaoxi Zhang, Zongyu Wang, Weidong Guo, Yuru Zhang, Yuhui Wang, and Dangxiao Wang. Voluntary respiration control: signature analysis by EEG [J]. <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, 2023. <em>(SCI, Q1)</em> (Second Author)</li>
+  <li><strong>Yan Zhang</strong>, Qinggang Ge, Zongyu Wang, Yuxing Qin, Yixing Wu, Mingjing Wang, Mai Shi, Lei Xue, Weidong Guo, Yuru Zhang, Guangyu Wang, and Dangxiao Wang. Extracorporeal closed-loop respiratory regulation for patients with respiratory difficulty using a soft bionic robot [J].<em>IEEE Transactions on Biomedical Engineering</em>, 2024.<em>(SCI, Q1, 第一季度)</em> (First Author)</li>
+  <li><strong>Yan Zhang</strong>, Danye Li, Fengyao Zhang, Zongyu Wang, Lei Xue, Xiaolu Nan, Nianming Li, Xilai Tan, Weidong Guo, Yuru Zhang, Hongmei Zhao, Qinggang Ge, Dangxiao Wang. Evaluation and modeling of diaphragm displacement using ultrasound imaging for wearable respiratory assistive robot [J].</em>Frontiers in Bioengineering and Biotechnology</em>.<em>(SCI, Q1)</em> (First Author)</li>
+  <li><strong>Yan Zhang</strong>, Ziqi Wang, Qinggang Ge, Zongyu Wang, Xiangjie Zhou, Shaohang Han, Yuru Zhang, Dangxiao Wang. Soft exoskeleton mimics human cough for assisting the expectoration capability of SCI patients [J].<em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, 2022. <em>(SCI, Q1)</em>(Co-First Author)</li>
+  <li>Wenzhuo Zhi, Wei Zhao,<strong>Yan Zhang</strong>, Enming Shi, Yangfan Zhou, Bi Zhang. Thoraco-abdominal biomechanical model and dual-layer control method for soft robotic system with application to respiratory assistance [J]. <em>Frontiers in Bioengineering and Biotechnology</em>. <em>(SCI, Q1)</em> (Co-Corresponding Author)</li>
+  <li>Yue Wang, <strong>Yan Zhang</strong>, Qinggang Ge, Yaoxi Zhang, Zongyu Wang, Weidong Guo, Yuru Zhang, Yuhui Wang, and Dangxiao Wang. Autonomous respiratory control: Electroencephalogram feature analysis [J].<em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, 2023.<em>(SCI, Q1, 第一季度)</em>(Second Author)</li>
 </ol>

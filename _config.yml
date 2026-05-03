@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                   : "Kailun Mai's Homepage"
-description              : "A Sutdent at Beihang University. "
+title                   : "Yan Zhang's Homepage"
+description              : "A Distinguished Hundred Talents postdoctoral fellow at Beihang University."
 repository               : 
 
 # SEO Related
@@ -16,14 +16,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : Kailun Mai | 麦凯伦
-  avatar           : "images/pic-m.png"
+  name             : Yan Zhang | 张艳
+  avatar           : "images/pic-id.png"
   bio              : "Beihang University"
-  location         : "Beijing, China"
+  location         : "北京航空航天大学沙河校区科研3号楼"
   employer         : "Yunpeng Wang"
   pubmed           : 
-  email            : "24374233@buaa.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "773572772@qq.com"
+  researchgate     : https://shi.buaa.edu.cn/zhangyan12/zh_CN/index.htm"
   uri              :
   bitbucket        :
   codepen          :
